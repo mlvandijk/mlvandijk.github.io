@@ -17,7 +17,7 @@ Collaborating on open source
 
 *April 18-19th, 2019 - Tokyo, Japan*
 
-Collaborating on open source
+Collaborating on open source ([talks page](https://conf.selenium.jp/talks.html))
 
 
 **TestBash Utrecht 2019** ([website](https://www.ministryoftesting.com/events/testbash-netherlands-2019))
