@@ -32,7 +32,7 @@ Great test automation does not absolve you from manual/exploratory testing
 
 *September 19th , 2018 - London, UK*
 
-FFS Great test automation does not absolve you from manual/exploratory testing ([Transcript](https://docs.google.com/document/d/e/2PACX-1vS8Zbgr-ggnUHYCu1QqT37LIevpVY76LZxtqrK9w2hcEP7RfUHT-JdTKg-Dm6wkgGSOcbNCFE5sazBH/pub))
+FFS Great test automation does not absolve you from manual/exploratory testing ([Transcript](https://docs.google.com/document/d/e/2PACX-1vS8Zbgr-ggnUHYCu1QqT37LIevpVY76LZxtqrK9w2hcEP7RfUHT-JdTKg-Dm6wkgGSOcbNCFE5sazBH/pub) | [Slides](https://speakerdeck.com/mlvandijk/exploratory-testing))
 
 
 **Joy of Coding** ([website](https://joyofcoding.org))
