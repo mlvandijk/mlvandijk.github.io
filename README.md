@@ -7,14 +7,14 @@
 ### Upcoming
 
 
-**SeleniumConf Tokyo 2019** ([website](https://conf.selenium.jp/))
+**SeleniumConf** ([website](https://conf.selenium.jp/))
 
 *April 18-19th, 2019 - Tokyo, Japan*
 
 Collaborating on open source ([talks page](https://conf.selenium.jp/talks.html))
 
 
-**TestBash Utrecht 2019** ([website](https://www.ministryoftesting.com/events/testbash-netherlands-2019))
+**TestBash** ([website](https://www.ministryoftesting.com/events/testbash-netherlands-2019))
 
 *May 24th, 2019 - Utrecht, the Netherlands*
 
@@ -23,7 +23,7 @@ Great test automation does not absolve you from manual/exploratory testing
 
 ### Past
 
-**Cukenfest London 2019** ([website](http://cukenfest.cucumber.io/)) 
+**Cukenfest** ([website](http://cukenfest.cucumber.io/)) 
 
 *April 4th, 2019 - London, UK*
 
