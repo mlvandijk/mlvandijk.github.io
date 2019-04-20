@@ -22,7 +22,7 @@ Great test automation does not absolve you from manual/exploratory testing
 
 *September 9th, 2019 - Swansea, Wales*
 
-A software quality mission statement (Workshop, with Jasmine Vyas)
+Building a software quality mission statement (Workshop, with Jasmine Vyas)
 
 ### Past
 
