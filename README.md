@@ -6,13 +6,11 @@
 
 ### Upcoming
 
+**NewCraft** ([website](https://ncrafts.io/))
 
-**SeleniumConf** ([website](https://conf.selenium.jp/))
+*May 16-17th, 2019 - Paris, France*
 
-*April 18-19th, 2019 - Tokyo, Japan*
-
-Collaborating on open source ([talks page](https://conf.selenium.jp/talks.html))
-
+Collaborating on open source
 
 **TestBash** ([website](https://www.ministryoftesting.com/events/testbash-netherlands-2019))
 
@@ -20,8 +18,19 @@ Collaborating on open source ([talks page](https://conf.selenium.jp/talks.html))
 
 Great test automation does not absolve you from manual/exploratory testing
 
+**SwanseaCon** ([website](https://swanseacon.co.uk/))
+
+*September 9th, 2019 - Swansea, Wales*
+
+A software quality mission statement (Workshop, with Jasmine Vyas)
 
 ### Past
+
+**SeleniumConf** ([website](https://conf.selenium.jp/))
+
+*April 18-19th, 2019 - Tokyo, Japan*
+
+Collaborating on open source ([talks page](https://conf.selenium.jp/talks.html) - [slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-seleniumconf-tokyo))
 
 **Cukenfest** ([website](http://cukenfest.cucumber.io/)) 
 
