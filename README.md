@@ -6,12 +6,6 @@
 
 ### Upcoming
 
-**NewCraft** ([website](https://ncrafts.io/))
-
-*May 16-17th, 2019 - Paris, France*
-
-Collaborating on open source
-
 **TestBash** ([website](https://www.ministryoftesting.com/events/testbash-netherlands-2019))
 
 *May 24th, 2019 - Utrecht, the Netherlands*
@@ -25,6 +19,12 @@ Great test automation does not absolve you from manual/exploratory testing
 Building a software quality mission statement (Workshop, with Jasmine Vyas)
 
 ### Past
+
+**NewCraft** ([website](https://ncrafts.io/))
+
+*May 16-17th, 2019 - Paris, France*
+
+Collaborating on open source ([slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-newcrafts-paris-2019))
 
 **SeleniumConf** ([website](https://conf.selenium.jp/))
 
