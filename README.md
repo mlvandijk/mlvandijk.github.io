@@ -36,7 +36,7 @@ Collaborating on open source ([talks page](https://conf.selenium.jp/talks.html) 
 
 *April 4th, 2019 - London, UK*
 
-[Collaborating on open source](http://cukenfest.cucumber.io/#marit) ([slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-software))
+[Collaborating on open source](http://cukenfest.cucumber.io/#marit) ([slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-software) - [video](https://www.youtube.com/watch?v=tuSk6dMoTIs))
 
 **FFSTechConf** ([website](https://ffstechconf.org/))
 
