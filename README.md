@@ -6,12 +6,6 @@
 
 ### Upcoming
 
-**TestBash** ([website](https://www.ministryoftesting.com/events/testbash-netherlands-2019))
-
-*May 24th, 2019 - Utrecht, the Netherlands*
-
-Great test automation does not absolve you from manual/exploratory testing
-
 **SwanseaCon** ([website](https://swanseacon.co.uk/))
 
 *September 9th, 2019 - Swansea, Wales*
@@ -19,6 +13,12 @@ Great test automation does not absolve you from manual/exploratory testing
 Building a software quality mission statement (Workshop, with Jasmine Vyas)
 
 ### Past
+
+**TestBash** ([website](https://www.ministryoftesting.com/events/testbash-netherlands-2019))
+
+*May 24th, 2019 - Utrecht, the Netherlands*
+
+Great test automation does not absolve you from manual/exploratory testing
 
 **NewCraft** ([website](https://ncrafts.io/))
 
