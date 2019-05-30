@@ -18,7 +18,7 @@ Building a software quality mission statement (Workshop, with Jasmine Vyas)
 
 *May 24th, 2019 - Utrecht, the Netherlands*
 
-Great test automation does not absolve you from manual/exploratory testing
+Great test automation does not absolve you from manual/exploratory testing ([slides](https://speakerdeck.com/mlvandijk/exploratory-testing-db4db289-c527-420e-995e-b2d42c9230d6))
 
 **NewCraft** ([website](https://ncrafts.io/))
 
