@@ -15,7 +15,7 @@
 
 *September 9th, 2019 - Swansea, Wales*
 
-Building a software quality mission statement (Workshop, with Jasmine Vyas)
+Building a software quality mission statement (Workshop, with [Jasmine Vyas](https://twitter.com/geeky_jazzy) - [Session page](https://swanseacon.co.uk/schedule/#session-018) - [Slides](https://speakerdeck.com/mlvandijk/what-does-software-quality-mean-to-you))
 
 **TestBash** ([website](https://www.ministryoftesting.com/events/testbash-netherlands-2019))
 
