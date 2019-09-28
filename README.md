@@ -28,7 +28,7 @@ Great test automation does not absolve you from manual/exploratory testing ([sli
 
 *May 16-17th, 2019 - Paris, France*
 
-Collaborating on open source ([slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-newcrafts-paris-2019))
+Collaborating on open source ([slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-newcrafts-paris-2019) - [video](http://videos.ncrafts.io/video/338591264))
 
 
 **SeleniumConf** ([website](https://conf.selenium.jp/))
