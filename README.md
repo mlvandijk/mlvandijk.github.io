@@ -6,13 +6,16 @@
 
 ### Upcoming
 
+To be announced
+
+### Past
+
+
 **SwanseaCon** ([website](https://swanseacon.co.uk/))
 
 *September 9th, 2019 - Swansea, Wales*
 
 Building a software quality mission statement (Workshop, with Jasmine Vyas)
-
-### Past
 
 **TestBash** ([website](https://www.ministryoftesting.com/events/testbash-netherlands-2019))
 
