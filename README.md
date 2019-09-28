@@ -59,6 +59,8 @@ FFS Great test automation does not absolve you from manual/exploratory testing (
 [Joy of acceptance test automation with Cucumber](https://joyofcoding.org/2018/marit-van-dijk.html) ([slides](https://speakerdeck.com/mlvandijk/joy-of-automated-acceptance-tests-with-cucumber))
 
 
-## Webinar
+## Webinars
 
 [Testing for DevOps](https://info.blazemeter.com/testing-for-devops-webinar) - Webinar with [Ashley Hunsberger](https://twitter.com/aahunsberger) and [Amber Race](https://twitter.com/ambertests)
+
+[A whole team approach to DevOps: Build, test, and run - together!](https://www.mabl.com/blog/webinar-how-to-build-test-and-run-together) - Webinar with [Lisa Crispin](https://twitter.com/lisacrispin), [Abby Bangser](https://twitter.com/a_bangser) and [Maryam Umar](https://twitter.com/maryamumar). 
