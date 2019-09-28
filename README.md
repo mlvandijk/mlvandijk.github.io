@@ -35,7 +35,7 @@ Collaborating on open source ([slides](https://speakerdeck.com/mlvandijk/collabo
 
 *April 18-19th, 2019 - Tokyo, Japan*
 
-Collaborating on open source ([talks page](https://conf.selenium.jp/talks.html) - [slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-seleniumconf-tokyo))
+Collaborating on open source ([talks page](https://conf.selenium.jp/talks.html) - [slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-seleniumconf-tokyo) - [video](https://www.youtube.com/watch?v=ePkClZ81cus))
 
 
 **Cukenfest** ([website](http://cukenfest.cucumber.io/)) 
