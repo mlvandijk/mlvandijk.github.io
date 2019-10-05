@@ -64,3 +64,7 @@ FFS Great test automation does not absolve you from manual/exploratory testing (
 [A whole team approach to DevOps: Build, test, and run - together!](https://www.mabl.com/blog/webinar-how-to-build-test-and-run-together) - Webinar with [Lisa Crispin](https://twitter.com/lisacrispin), [Abby Bangser](https://twitter.com/a_bangser) and [Maryam Umar](https://twitter.com/maryamumar).
 
 [Testing for DevOps](https://info.blazemeter.com/testing-for-devops-webinar) - Webinar with [Ashley Hunsberger](https://twitter.com/aahunsberger) and [Amber Race](https://twitter.com/ambertests).
+
+## Lists
+
+[Agile TD - Next 125 awesome testers you should keep your eye on always (2018)](https://agiletestingdays.com/blog/next-125-awesome-testers-you-should-keep-your-eye-on-always/)
