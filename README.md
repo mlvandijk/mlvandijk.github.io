@@ -68,6 +68,8 @@ FFS Great test automation does not absolve you from manual/exploratory testing (
 
 [Testing for DevOps](https://info.blazemeter.com/testing-for-devops-webinar) - Webinar with [Ashley Hunsberger](https://twitter.com/aahunsberger) and [Amber Race](https://twitter.com/ambertests).
 
-## Lists
+## Mentions
+
+[CukenFest London Asks: Marit van Dijk](https://cucumber.io/blog/cukenfest-london-asks-marit-van-dijk/)
 
 [Agile TD - Next 125 awesome testers you should keep your eye on always (2018)](https://agiletestingdays.com/blog/next-125-awesome-testers-you-should-keep-your-eye-on-always/)
