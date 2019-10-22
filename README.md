@@ -6,7 +6,10 @@
 
 ### Upcoming
 
-*To be announced*
+**JFuture.dev** ([website](https://jfuture.dev/))
+*November 16th, 2019 - Minsk, Belarus*
+
+Collaborating on open source
 
 ### Past
 
