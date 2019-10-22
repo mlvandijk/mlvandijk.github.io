@@ -59,7 +59,7 @@ FFS Great test automation does not absolve you from manual/exploratory testing (
 
 *June 8th, 2018 - Rotterdam, the Netherlands*
 
-[Joy of acceptance test automation with Cucumber](https://joyofcoding.org/2018/marit-van-dijk.html) ([slides](https://speakerdeck.com/mlvandijk/joy-of-automated-acceptance-tests-with-cucumber))
+[Joy of acceptance test automation with Cucumber](https://joyofcoding.org/2018/marit-van-dijk.html) ([video](https://www.infoq.com/presentations/joy-coding-2018-lightning-talks/) - [slides](https://speakerdeck.com/mlvandijk/joy-of-automated-acceptance-tests-with-cucumber))
 
 
 ## Webinars
