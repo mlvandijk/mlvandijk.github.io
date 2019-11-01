@@ -13,7 +13,6 @@ Collaborating on open source
 
 ### Past
 
-
 **SwanseaCon** ([website](https://swanseacon.co.uk/))
 
 *September 9th, 2019 - Swansea, Wales*
@@ -50,7 +49,7 @@ Collaborating on open source) ([slides](https://speakerdeck.com/mlvandijk/collab
 
 **FFSTechConf** ([website](https://ffstechconf.org/))
 
-*September 19th , 2018 - London, UK*
+*September 19th, 2018 - London, UK*
 
 FFS Great test automation does not absolve you from manual/exploratory testing ([transcript](https://docs.google.com/document/d/e/2PACX-1vS8Zbgr-ggnUHYCu1QqT37LIevpVY76LZxtqrK9w2hcEP7RfUHT-JdTKg-Dm6wkgGSOcbNCFE5sazBH/pub) - [slides](https://speakerdeck.com/mlvandijk/exploratory-testing))
 
