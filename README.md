@@ -7,6 +7,7 @@
 ### Upcoming
 
 **ScanAgile** ([website](http://www.scan-agile.org/program/))
+
 *April 1st-2nd, 2020 - Helsinki, Finland*
 
 What to do when your automated tests start to slow you down
@@ -14,6 +15,7 @@ What to do when your automated tests start to slow you down
 ### Past
 
 **JFuture.dev** ([website](https://jfuture.dev/))
+
 *November 16th, 2019 - Minsk, Belarus*
 
 Collaborating on open source
