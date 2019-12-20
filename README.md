@@ -6,6 +6,12 @@
 
 ### Upcoming
 
+**BoosterConf** ([website](https://2020.boosterconf.no/))
+
+*March 18-20, 2020 - Bergen, Norway*
+
+Collaborating on open source
+
 **ScanAgile** ([website](http://www.scan-agile.org/program/))
 
 *April 1st-2nd, 2020 - Helsinki, Finland*
