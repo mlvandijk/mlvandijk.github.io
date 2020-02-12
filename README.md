@@ -12,6 +12,12 @@
 
 Collaborating on open source
 
+**ACCU conference** ([website](https://conference.accu.org/))
+
+*March 25-28, 2020 - Bristol, UK*
+
+When contracts become expensive mocks…
+
 **ScanAgile** ([website](http://www.scan-agile.org/program/))
 
 *April 1st-2nd, 2020 - Helsinki, Finland*
