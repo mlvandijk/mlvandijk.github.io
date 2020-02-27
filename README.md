@@ -24,6 +24,13 @@ When contracts become expensive mocks…
 
 What to do when your automated tests start to slow you down
 
+**Spring I/O**
+
+*May 14-15, 2020 - Barcelona, Spain*
+
+[Collaborating on open source](https://2020.springio.net/sessions/collaborating-on-open-source-software) - with [Stéphane Nicoll](https://twitter.com/snicoll)
+
+
 ### Past
 
 **JFuture.dev** ([website](https://jfuture.dev/))
