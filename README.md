@@ -24,7 +24,7 @@ When contracts become expensive mocks…
 
 What to do when your automated tests start to slow you down
 
-**Spring I/O**
+**Spring I/O** ([website](https://2020.springio.net/))
 
 *May 14-15, 2020 - Barcelona, Spain*
 
