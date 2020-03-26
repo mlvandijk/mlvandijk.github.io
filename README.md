@@ -6,32 +6,44 @@
 
 ### Upcoming
 
-**BoosterConf** ([website](https://2020.boosterconf.no/))
+**ExpoQA** ([website](https://www.expoqa.com/)
 
-*March 18-20, 2020 - Bergen, Norway*
-
-Collaborating on open source
-
-**ACCU conference** ([website](https://conference.accu.org/))
-
-*March 25-28, 2020 - Bristol, UK*
-
-When contracts become expensive mocks…
-
-**ScanAgile** ([website](http://www.scan-agile.org/program/))
-
-*April 1st-2nd, 2020 - Helsinki, Finland*
+*June 15-17, 2020 - Madrid, Spain*
 
 What to do when your automated tests start to slow you down
 
+**GSAS** ([website](https://gsas.io/)
+
+*Oct 1-2, 2020 - Barcelona, Spain*
+
+Q&A with Software Architecture Experts
+
 **Spring I/O** ([website](https://2020.springio.net/))
 
-*May 14-15, 2020 - Barcelona, Spain*
+*Oct 8-9, 2020 - Barcelona, Spain*
 
 [Collaborating on open source](https://2020.springio.net/sessions/collaborating-on-open-source-software) - with [Stéphane Nicoll](https://twitter.com/snicoll)
 
 
 ### Past
+
+**ScanAgile** ([website](http://www.scan-agile.org/program/))  - CANCELLED due to COVID-19
+
+*April 1st-2nd, 2020 - Helsinki, Finland*
+
+What to do when your automated tests start to slow you down
+
+**ACCU conference** ([website](https://conference.accu.org/))  - CANCELLED due to COVID-19
+
+*March 25-28, 2020 - Bristol, UK*
+
+When contracts become expensive mocks…
+
+**BoosterConf** ([website](https://2020.boosterconf.no/)) - CANCELLED due to COVID-19
+
+*March 18-20, 2020 - Bergen, Norway*
+
+Collaborating on open source
 
 **JFuture.dev** ([website](https://jfuture.dev/))
 
