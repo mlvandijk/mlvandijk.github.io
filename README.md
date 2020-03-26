@@ -6,13 +6,13 @@
 
 ### Upcoming
 
-**ExpoQA** ([website](https://www.expoqa.com/)
+**ExpoQA** ([website](https://www.expoqa.com/))
 
 *June 15-17, 2020 - Madrid, Spain*
 
 What to do when your automated tests start to slow you down
 
-**GSAS** ([website](https://gsas.io/)
+**GSAS** ([website](https://gsas.io/))
 
 *Oct 1-2, 2020 - Barcelona, Spain*
 
