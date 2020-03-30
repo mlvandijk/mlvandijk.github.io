@@ -104,6 +104,8 @@ Maintainable podcast: [Marit van Dijk: How Are We Going to Test This?](https://m
 
 ## Webinars
 
+[Ensuring your website doesn't crash during the holiday rush](https://www.mabl.com/blog/getting-ready-for-a-seasonal-crush-from-a-testing-perspective) - Webinar with [Lisa Crispin](https://twitter.com/lisacrispin), [Maaret Pyhäjärvi](https://twitter.com/maaretp) and [Raluca Morariu](https://twitter.com/schumitza)
+
 [A whole team approach to DevOps: Build, test, and run - together!](https://www.mabl.com/blog/webinar-how-to-build-test-and-run-together) - Webinar with [Lisa Crispin](https://twitter.com/lisacrispin), [Abby Bangser](https://twitter.com/a_bangser) and [Maryam Umar](https://twitter.com/maryamumar).
 
 [Testing for DevOps](https://info.blazemeter.com/testing-for-devops-webinar) - Webinar with [Ashley Hunsberger](https://twitter.com/aahunsberger) and [Amber Race](https://twitter.com/ambertests).
