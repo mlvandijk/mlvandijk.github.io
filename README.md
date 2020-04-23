@@ -6,11 +6,11 @@
 
 ### Upcoming
 
-**ExpoQA** ([website](https://www.expoqa.com/))
+**The Virtual Bash!** ([Meetup link](https://www.meetup.com/devbash/events/270104578/))
 
-*June 15-17, 2020 - Madrid, Spain*
+*Apr 24, 2020 - Online*
 
-What to do when your automated tests start to slow you down
+Collaborating on Open Source Software
 
 **GSAS** ([website](https://gsas.io/))
 
@@ -22,8 +22,13 @@ Q&A with Software Architecture Experts
 
 *Oct 8-9, 2020 - Barcelona, Spain*
 
-[Collaborating on open source](https://2020.springio.net/sessions/collaborating-on-open-source-software) - with [Stéphane Nicoll](https://twitter.com/snicoll)
+[Collaborating on Open Source Software](https://2020.springio.net/sessions/collaborating-on-open-source-software) - with [Stéphane Nicoll](https://twitter.com/snicoll)
 
+**ExpoQA** ([website](https://www.expoqa.com/))
+
+*June 8-9, 2021 - Madrid, Spain*
+
+What to do when your automated tests start to slow you down
 
 ### Past
 
