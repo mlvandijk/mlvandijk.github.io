@@ -30,7 +30,7 @@ What to do when your automated tests start to slow you down
 
 *Apr 24, 2020 - Online*
 
-Collaborating on Open Source Software ([slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-software-4375bd16-28ed-4ff7-9d39-b0d6f24c9abe))
+Collaborating on Open Source Software ([video](https://www.youtube.com/watch?v=B11mXG16B5Y&feature=youtu.be) - [slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-software-4375bd16-28ed-4ff7-9d39-b0d6f24c9abe))
 
 **ScanAgile** ([website](http://www.scan-agile.org/program/))  - CANCELLED due to COVID-19
 
@@ -60,7 +60,7 @@ Collaborating on open source
 
 *September 9th, 2019 - Swansea, Wales*
 
-Building a software quality mission statement (Workshop, with [Jasmine Vyas](https://twitter.com/geeky_jazzy) - [Session page](https://swanseacon.co.uk/schedule/#session-018) - [Slides](https://speakerdeck.com/mlvandijk/what-does-software-quality-mean-to-you))
+Building a software quality mission statement (Workshop, with [Jasmine Vyas](https://twitter.com/geeky_jazzy) - [session page](https://swanseacon.co.uk/schedule/#session-018) - [slides](https://speakerdeck.com/mlvandijk/what-does-software-quality-mean-to-you))
 
 **TestBash** ([website](https://www.ministryoftesting.com/events/testbash-netherlands-2019))
 
@@ -73,21 +73,21 @@ Great test automation does not absolve you from manual/exploratory testing ([sli
 
 *May 16-17th, 2019 - Paris, France*
 
-Collaborating on open source ([slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-newcrafts-paris-2019) - [video](http://videos.ncrafts.io/video/338591264))
+Collaborating on open source ([video](http://videos.ncrafts.io/video/338591264) - [slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-newcrafts-paris-2019))
 
 
-**SeleniumConf** ([website](https://conf.selenium.jp/))
+**SeleniumConf** ([website](https://conf.selenium.jp/) - [talks page](https://conf.selenium.jp/talks.html))
 
 *April 18-19th, 2019 - Tokyo, Japan*
 
-Collaborating on open source ([talks page](https://conf.selenium.jp/talks.html) - [slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-seleniumconf-tokyo) - [video](https://www.youtube.com/watch?v=ePkClZ81cus))
+Collaborating on open source ([video](https://www.youtube.com/watch?v=ePkClZ81cus) - [slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-seleniumconf-tokyo))
 
 
 **Cukenfest** ([website](http://cukenfest.cucumber.io/)) 
 
 *April 4th, 2019 - London, UK*
 
-Collaborating on open source ([slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-software) - [video](https://www.youtube.com/watch?v=tuSk6dMoTIs))
+Collaborating on open source ([video](https://www.youtube.com/watch?v=tuSk6dMoTIs) - [slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-software))
 
 
 **FFSTechConf** ([website](https://ffstechconf.org/))
