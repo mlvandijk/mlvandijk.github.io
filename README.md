@@ -6,12 +6,6 @@
 
 ### Upcoming
 
-**The Virtual Bash!** ([Meetup link](https://www.meetup.com/devbash/events/270104578/))
-
-*Apr 24, 2020 - Online*
-
-Collaborating on Open Source Software
-
 **GSAS** ([website](https://gsas.io/))
 
 *Oct 1-2, 2020 - Barcelona, Spain*
@@ -31,6 +25,12 @@ Q&A with Software Architecture Experts
 What to do when your automated tests start to slow you down
 
 ### Past
+
+**The Virtual Bash!** ([Meetup link](https://www.meetup.com/devbash/events/270104578/))
+
+*Apr 24, 2020 - Online*
+
+Collaborating on Open Source Software ([slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-software-4375bd16-28ed-4ff7-9d39-b0d6f24c9abe))
 
 **ScanAgile** ([website](http://www.scan-agile.org/program/))  - CANCELLED due to COVID-19
 
