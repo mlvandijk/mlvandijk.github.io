@@ -6,9 +6,15 @@
 
 ### Upcoming
 
+**Jetbrains Technology Day For Java** ([website](https://pages.jetbrains.com/technology-day-java-2020/twitter?utm_source=twitter&utm_medium=referral&utm_campaign=java25))
+
+*July 10th, 2020 - Online*
+
+Collaborating on open source
+
 **GSAS** ([website](https://gsas.io/))
 
-*Oct 1-2, 2020 - Barcelona, Spain*
+*Postponed until unknown date - Barcelona, Spain*
 
 Q&A with Software Architecture Experts
 
@@ -18,13 +24,20 @@ Q&A with Software Architecture Experts
 
 [Collaborating on Open Source Software](https://2020.springio.net/sessions/collaborating-on-open-source-software) - with [Stéphane Nicoll](https://twitter.com/snicoll)
 
-**ExpoQA** ([website](https://www.expoqa.com/))
+**Agile Testing Days** ([website](https://agiletestingdays.com/)) - Hybrid edition (on site / online)
 
-*June 8-9, 2021 - Madrid, Spain*
+*Nov 8-13, 2020 - Potsdam, Germany*
 
 What to do when your automated tests start to slow you down
 
+
 ### Past
+
+**ExpoQA** ([website](https://www.expoqa.com/)) - CANCELLED due to COVID-19
+
+*June 8-9, 2020 - Madrid, Spain*
+
+What to do when your automated tests start to slow you down
 
 **The Virtual Bash!** ([Meetup link](https://www.meetup.com/devbash/events/270104578/))
 
