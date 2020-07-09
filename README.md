@@ -67,7 +67,7 @@ Collaborating on open source
 
 *November 16th, 2019 - Minsk, Belarus*
 
-Collaborating on open source
+Collaborating on open source ([video](https://www.youtube.com/watch?v=R82-4eC94xE) - [slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-jfuture-dot-dev-minsk-nov-16th-2019))
 
 **SwanseaCon** ([website](https://swanseacon.co.uk/))
 
