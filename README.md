@@ -31,7 +31,7 @@ What to do when your automated tests start to slow you down
 
 *July 10th, 2020 - Online*
 
-Collaborating on open source
+Collaborating on Open Source Software ([video](youtu.be/GAqfMNB-YBU) - [slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-software-8d720d71-a31b-4079-8c67-08dbda6c0aac))
 
 **ExpoQA** ([website](https://www.expoqa.com/)) - CANCELLED due to COVID-19
 
