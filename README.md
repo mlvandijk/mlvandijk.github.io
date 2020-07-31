@@ -6,23 +6,11 @@
 
 ### Upcoming
 
-**Jetbrains Technology Day For Java** ([website](https://pages.jetbrains.com/technology-day-java-2020/twitter?utm_source=twitter&utm_medium=referral&utm_campaign=java25))
-
-*July 10th, 2020 - Online*
-
-Collaborating on open source
-
 **GSAS** ([website](https://gsas.io/))
 
 *Postponed until unknown date - Barcelona, Spain*
 
 Q&A with Software Architecture Experts
-
-**Spring I/O** ([website](https://2020.springio.net/))
-
-*Oct 8-9, 2020 - Barcelona, Spain*
-
-[Collaborating on Open Source Software](https://2020.springio.net/sessions/collaborating-on-open-source-software) - with [Stéphane Nicoll](https://twitter.com/snicoll)
 
 **Agile Testing Days** ([website](https://agiletestingdays.com/)) - Hybrid edition (on site / online)
 
@@ -32,6 +20,18 @@ What to do when your automated tests start to slow you down
 
 
 ### Past
+
+**Spring I/O** ([website](https://2020.springio.net/)) - CANCELLED due to COVID-19
+
+*Oct 8-9, 2020 - Barcelona, Spain*
+
+[Collaborating on Open Source Software](https://2020.springio.net/sessions/collaborating-on-open-source-software) - with [Stéphane Nicoll](https://twitter.com/snicoll)
+
+**Jetbrains Technology Day For Java** ([website](https://pages.jetbrains.com/technology-day-java-2020/twitter?utm_source=twitter&utm_medium=referral&utm_campaign=java25))
+
+*July 10th, 2020 - Online*
+
+Collaborating on open source
 
 **ExpoQA** ([website](https://www.expoqa.com/)) - CANCELLED due to COVID-19
 
