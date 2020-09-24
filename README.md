@@ -6,17 +6,21 @@
 
 ### Upcoming
 
+**CONTRIBUTING.MD** ([website](https://www.contributing.today/))
+
+*Oct 2nd, 2020 - Online event*
+
+**Agile Testing Days** ([website](https://agiletestingdays.com/))
+
+*Nov 8-13, 2020 - Online event*
+
+What to do when your automated tests start to slow you down
+
 **GSAS** ([website](https://gsas.io/))
 
 *Postponed until unknown date - Barcelona, Spain*
 
 Q&A with Software Architecture Experts
-
-**Agile Testing Days** ([website](https://agiletestingdays.com/)) - Hybrid edition (on site / online)
-
-*Nov 8-13, 2020 - Potsdam, Germany*
-
-What to do when your automated tests start to slow you down
 
 
 ### Past
