@@ -6,24 +6,12 @@
 
 ### Upcoming
 
+
+### Past
+
 **CONTRIBUTING.MD** ([website](https://www.contributing.today/))
 
 *Oct 2nd, 2020 - Online event*
-
-**Agile Testing Days** ([website](https://agiletestingdays.com/))
-
-*Nov 8-13, 2020 - Online event*
-
-What to do when your automated tests start to slow you down
-
-**GSAS** ([website](https://gsas.io/))
-
-*Postponed until unknown date - Barcelona, Spain*
-
-Q&A with Software Architecture Experts
-
-
-### Past
 
 **Spring I/O** ([website](https://2020.springio.net/)) - CANCELLED due to COVID-19
 
