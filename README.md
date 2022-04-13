@@ -6,7 +6,7 @@
 
 ### Upcoming
 
-Coming soon...
+_Coming soon..._
 
 ### Past
 
