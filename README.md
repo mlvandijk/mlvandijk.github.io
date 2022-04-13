@@ -23,7 +23,7 @@
 
 *July 10th, 2020 - Online*
 
-Collaborating on Open Source Software ([video](youtu.be/GAqfMNB-YBU) - [slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-software-8d720d71-a31b-4079-8c67-08dbda6c0aac))
+Collaborating on Open Source Software ([video](https://youtu.be/GAqfMNB-YBU) - [slides](https://speakerdeck.com/mlvandijk/collaborating-on-open-source-software-8d720d71-a31b-4079-8c67-08dbda6c0aac))
 
 **ExpoQA** ([website](https://www.expoqa.com/)) - CANCELLED due to COVID-19
 
@@ -125,3 +125,5 @@ Maintainable podcast: [Marit van Dijk: How Are We Going to Test This?](https://m
 [CukenFest London Asks: Marit van Dijk](https://cucumber.io/blog/cukenfest-london-asks-marit-van-dijk/)
 
 [Agile TD - Next 125 awesome testers you should keep your eye on always (2018)](https://agiletestingdays.com/blog/next-125-awesome-testers-you-should-keep-your-eye-on-always/)
+
+[Cucumber Newsletter - Interview with Helen Scott](https://cucumber.io/blog/news/cucumber-community-newsletter-2/)
