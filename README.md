@@ -113,6 +113,10 @@ FFS Great test automation does not absolve you from manual/exploratory testing (
 
 [Joy of acceptance test automation with Cucumber](https://joyofcoding.org/2018/marit-van-dijk.html) ([video](https://www.infoq.com/presentations/joy-coding-2018-lightning-talks/) - [slides](https://speakerdeck.com/mlvandijk/joy-of-automated-acceptance-tests-with-cucumber))
 
+## Publications
+
+[Use Testing to Develop Better Software Faster](https://medium.com/97-things/use-testing-to-develop-better-software-faster-9dd2616543d3) was published in the book [“97 Things Every Java Programmer Should Know”](https://www.oreilly.com/library/view/97-things-every/9781491952689/) (O’Reilly Media).
+
 ## Podcast
 
 Maintainable podcast: [Marit van Dijk: How Are We Going to Test This?](https://maintainable.fm/episodes/marit-van-dijk-how-are-we-going-to-test-this)
