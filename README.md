@@ -123,6 +123,8 @@ Maintainable podcast: [Marit van Dijk: How Are We Going to Test This?](https://m
 
 ## Mentions
 
+[Kevlin Henney - Best life and thoughts from 97 Things Every Programmer Should Know](https://youtu.be/3F3PZuN50s4?t=1840)
+
 [CukenFest London Asks: Marit van Dijk](https://cucumber.io/blog/cukenfest-london-asks-marit-van-dijk/)
 
 [Agile TD - Next 125 awesome testers you should keep your eye on always (2018)](https://agiletestingdays.com/blog/next-125-awesome-testers-you-should-keep-your-eye-on-always/)
