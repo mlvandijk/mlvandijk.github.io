@@ -126,4 +126,4 @@ Maintainable podcast: [Marit van Dijk: How Are We Going to Test This?](https://m
 
 [Agile TD - Next 125 awesome testers you should keep your eye on always (2018)](https://agiletestingdays.com/blog/next-125-awesome-testers-you-should-keep-your-eye-on-always/)
 
-[Cucumber Newsletter - Interview with Helen Scott](https://cucumber.io/blog/news/cucumber-community-newsletter-2/)
+[Cucumber Newsletter - Meet a Cucumber user: Helen Scott](https://cucumber.io/blog/news/cucumber-community-newsletter-2/)
