@@ -6,7 +6,11 @@
 
 ### Upcoming
 
-_Coming soon..._
+**JSpring** ([website](https://jspring.nl/))
+
+*Jun 8th, 2022 - Utrecht, the Netherlands*
+
+[Use Testing to Develop Better Software Faster](https://jspring.nl/speakers/marit-van-dijk/)
 
 ### Past
 
