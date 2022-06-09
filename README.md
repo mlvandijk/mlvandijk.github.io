@@ -6,13 +6,19 @@
 
 ### Upcoming
 
-**JSpring** ([website](https://jspring.nl/))
+**JBCN** ([website](https://www.jbcnconf.com/2022/#JBCN))
 
-*Jun 8th, 2022 - Utrecht, the Netherlands*
+*July 18-19, 2022 - Barcelona, Spain*
 
-[Use Testing to Develop Better Software Faster](https://jspring.nl/speakers/marit-van-dijk/)
+[Use Testing to Develop Better Software Faster](https://www.jbcnconf.com/2022/infoTalk.html?id=628551e8d7a7c108376c3a65)
 
 ### Past
+
+**JSpring** ([website](https://jspring.nl/))
+
+*June 8th, 2022 - Utrecht, the Netherlands*
+
+[Use Testing to Develop Better Software Faster](https://jspring.nl/sessions/use-testing-to-develop-better-software-faster/) ([slides](https://speakerdeck.com/mlvandijk/use-testing-to-develop-better-software-faster))
 
 **CONTRIBUTING.MD** ([website](https://www.contributing.today/))
 
