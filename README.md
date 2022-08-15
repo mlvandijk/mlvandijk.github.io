@@ -6,13 +6,13 @@
 
 ### Upcoming
 
+### Past
+
 **JBCN** ([website](https://www.jbcnconf.com/2022/#JBCN))
 
 *July 18-19, 2022 - Barcelona, Spain*
 
 [Use Testing to Develop Better Software Faster](https://www.jbcnconf.com/2022/infoTalk.html?id=628551e8d7a7c108376c3a65)
-
-### Past
 
 **JSpring** ([website](https://jspring.nl/))
 
