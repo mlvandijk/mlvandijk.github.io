@@ -121,7 +121,7 @@ FFS Great test automation does not absolve you from manual/exploratory testing (
 
 ## Publications
 
-[Use Testing to Develop Better Software Faster](https://medium.com/97-things/use-testing-to-develop-better-software-faster-9dd2616543d3) was published in the book [“97 Things Every Java Programmer Should Know”](https://www.oreilly.com/library/view/97-things-every/9781491952689/) (O’Reilly Media).
+[Use Testing to Develop Better Software Faster](https://medium.com/97-things/use-testing-to-develop-better-software-faster-9dd2616543d3) was published in the book [“97 Things Every Java Programmer Should Know”](https://www.oreilly.com/library/view/97-things-every/9781491952689/) (O’Reilly Media) edited by Kevlin Henney & Trisha Gee.
 
 ## Podcast
 
