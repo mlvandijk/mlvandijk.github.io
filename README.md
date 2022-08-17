@@ -20,9 +20,13 @@
 
 [Use Testing to Develop Better Software Faster](https://jspring.nl/sessions/use-testing-to-develop-better-software-faster/) ([video](https://www.youtube.com/watch?v=x6f9eafLSBs) - [slides](https://speakerdeck.com/mlvandijk/use-testing-to-develop-better-software-faster))
 
+**We are ING Tech Meetup**
+
+*Oct 6th, 2020 - Online event* Collaborating on Open Source Software ([video](https://www.youtube.com/watch?v=b48qrYeRkAQ))
+
 **CONTRIBUTING.MD** ([website](https://www.contributing.today/past-sessions/collaborating-on-oss/))
 
-*Oct 2nd, 2020 - Online event* ([video](https://www.youtube.com/watch?v=B9E-8phtquQ))
+*Oct 2nd, 2020 - Online event* Collaborating on Open Source Software ([video](https://www.youtube.com/watch?v=B9E-8phtquQ))
 
 **Spring I/O** ([website](https://2020.springio.net/)) - CANCELLED due to COVID-19
 
