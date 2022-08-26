@@ -6,6 +6,13 @@
 
 ### Upcoming
 
+DevOxx ([website](https://devoxx.be/))
+
+*October 10-14, 2022 - Antwerp, Belgium*
+
+Keep your dependencies in check
+
+
 ### Past
 
 **JBCN** ([website](https://www.jbcnconf.com/2022/#JBCN))
