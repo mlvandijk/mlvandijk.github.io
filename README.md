@@ -150,6 +150,8 @@ Maintainable podcast: [Marit van Dijk: How Are We Going to Test This?](https://m
 
 [Tripple Threat Java 26/08/22](https://dreamix.eu/blog/newsroom/triple-threat-java-26-08-22) featured [Using Git Interactive Rebase](https://foojay.io/today/using-git-interactive-rebase/)
 
+[JSpring after movie](https://youtu.be/YTSy9zlE7vE)
+
 [Kevlin Henney - Best life and thoughts from 97 Things Every Programmer Should Know](https://youtu.be/3F3PZuN50s4?t=1840)
 
 [CukenFest London Asks: Marit van Dijk](https://cucumber.io/blog/cukenfest-london-asks-marit-van-dijk/)
