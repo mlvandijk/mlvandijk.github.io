@@ -152,6 +152,8 @@ Maintainable podcast: [Marit van Dijk: How Are We Going to Test This?](https://m
 
 [JSpring after movie](https://youtu.be/YTSy9zlE7vE)
 
+[Kevlin Henney quoting me at GoTo Amsterdam 2022](https://twitter.com/MaritvanDijk77/status/1537068662498156544?s=20&t=uXqmsgS4RWIvAO_Zw45xvQ)
+
 [Kevlin Henney - Best life and thoughts from 97 Things Every Programmer Should Know](https://youtu.be/3F3PZuN50s4?t=1840)
 
 [CukenFest London Asks: Marit van Dijk](https://cucumber.io/blog/cukenfest-london-asks-marit-van-dijk/)
