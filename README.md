@@ -156,6 +156,8 @@ Maintainable podcast: [Marit van Dijk: How Are We Going to Test This?](https://m
 
 [Kevlin Henney - Best life and thoughts from 97 Things Every Programmer Should Know](https://youtu.be/3F3PZuN50s4?t=1840)
 
+[IntelliJ IDEA Blog: JetBrains Technology Day for Java – How I Started Contributing to Open Source and Why You Should Too](https://blog.jetbrains.com/idea/2020/08/jetbrains-technology-day-for-java-how-i-started-contributing-to-open-source-and-why-you-should-too/)
+
 [CukenFest London Asks: Marit van Dijk](https://cucumber.io/blog/cukenfest-london-asks-marit-van-dijk/)
 
 [Agile TD - Next 125 awesome testers you should keep your eye on always (2018)](https://agiletestingdays.com/blog/next-125-awesome-testers-you-should-keep-your-eye-on-always/)
