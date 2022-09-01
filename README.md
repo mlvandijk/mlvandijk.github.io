@@ -8,7 +8,7 @@
 
 **JoziJUG** ([website](https://www.meetup.com/jozi-jug/))
 
-*September 26th, online*
+*September 26th - online*
 
 [Keep your dependencies in check](https://www.meetup.com/jozi-jug/events/288165207/)
 
