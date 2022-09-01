@@ -154,6 +154,8 @@ Maintainable podcast: [Marit van Dijk: How Are We Going to Test This?](https://m
 
 ## Mentions
 
+[The Payara Monthly Catch: August 2022](https://blog.payara.fish/the-payara-monthly-catch-august-2022) featured [IntelliJ IDEA. Pro Tips: Using Git Interactive Rebase](https://www.youtube.com/watch?v=bPX9VHjviEM)
+
 [Tripple Threat Java 26/08/22](https://dreamix.eu/blog/newsroom/triple-threat-java-26-08-22) featured [Using Git Interactive Rebase](https://foojay.io/today/using-git-interactive-rebase/)
 
 [JSpring after movie](https://youtu.be/YTSy9zlE7vE)
