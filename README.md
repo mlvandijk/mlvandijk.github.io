@@ -16,7 +16,7 @@
 
 *October 10-14, 2022 - Antwerp, Belgium*
 
-Keep your dependencies in check
+[Keep your dependencies in check](https://devoxx.be/schedule/speaker-details/?id=17923)
 
 
 ### Past
