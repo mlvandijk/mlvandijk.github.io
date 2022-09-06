@@ -30,7 +30,7 @@
 
 [Keep your dependencies in check](https://devoxx.be/schedule/speaker-details/?id=17923)
 
-**GeeCon Prague** ([website]([https://devoxx.be/](https://2022.geecon.cz/)))
+**GeeCon Prague** ([website](https://2022.geecon.cz/))
 
 *October 24-25, 2022 - Prague, Czech Republic*
 
