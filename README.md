@@ -6,11 +6,23 @@
 
 ### Upcoming
 
+**RotterdamJUG** ([website](https://www.meetup.com/rotterdamjug/))
+
+*September 21st, 2022 - Rotterdam, the Netherlands*
+
+[Keep your dependencies in check](https://www.meetup.com/rotterdamjug/events/288279498/)
+
 **JoziJUG** ([website](https://www.meetup.com/jozi-jug/))
 
-*September 26th - online*
+*September 26th, 2022 - online*
 
 [Keep your dependencies in check](https://www.meetup.com/jozi-jug/events/288165207/)
+
+**Voxxed Days Cluj** ([website](https://romania.voxxeddays.com/cluj-napoca/voxxed-days-cluj-napoca-2022/))
+
+*October 5-7, 2022 - Cluj, Romania*
+
+[Use Testing to Develop Better Software Faster](https://romania.voxxeddays.com/2022/09/04/use-testing-to-develop-better-software-faster/)
 
 **DevOxx** ([website](https://devoxx.be/))
 
@@ -18,6 +30,11 @@
 
 [Keep your dependencies in check](https://devoxx.be/schedule/speaker-details/?id=17923)
 
+**GeeCon Prague** ([website](https://devoxx.be/))
+
+*October 10-14, 2022 - Antwerp, Belgium*
+
+[Keep your dependencies in check](https://devoxx.be/schedule/speaker-details/?id=17923)
 
 ### Past
 
