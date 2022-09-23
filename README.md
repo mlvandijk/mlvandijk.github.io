@@ -6,12 +6,6 @@
 
 ### Upcoming
 
-**RotterdamJUG** ([website](https://www.meetup.com/rotterdamjug/))
-
-*September 21st, 2022 - Rotterdam, the Netherlands*
-
-[Keep your dependencies in check](https://www.meetup.com/rotterdamjug/events/288279498/)
-
 **JoziJUG** ([website](https://www.meetup.com/jozi-jug/))
 
 *September 26th, 2022 - online*
@@ -37,6 +31,12 @@
 Keep your dependencies in check
 
 ### Past
+
+**RotterdamJUG** ([website](https://www.meetup.com/rotterdamjug/) - [slides](https://speakerdeck.com/mlvandijk/keep-your-dependencies-in-check))
+
+*September 21st, 2022 - Rotterdam, the Netherlands*
+
+[Keep your dependencies in check](https://www.meetup.com/rotterdamjug/events/288279498/)
 
 **JBCN** ([website](https://www.jbcnconf.com/2022/#JBCN))
 
