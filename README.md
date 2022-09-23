@@ -30,6 +30,12 @@
 
 Keep your dependencies in check
 
+**JFall** ([website](https://jfall.nl/))
+
+*Nov 3rd, 2022 - Ede, the Netherlands*
+
+Keep your dependencies in check
+
 ### Past
 
 **RotterdamJUG** ([website](https://www.meetup.com/rotterdamjug/) - [slides](https://speakerdeck.com/mlvandijk/keep-your-dependencies-in-check))
