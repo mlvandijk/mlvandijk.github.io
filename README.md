@@ -6,12 +6,6 @@
 
 ### Upcoming
 
-**JoziJUG** ([website](https://www.meetup.com/jozi-jug/))
-
-*September 26th, 2022 - online*
-
-[Keep your dependencies in check](https://www.meetup.com/jozi-jug/events/288165207/)
-
 **Voxxed Days Cluj** ([website](https://romania.voxxeddays.com/cluj-napoca/voxxed-days-cluj-napoca-2022/))
 
 *October 5-7, 2022 - Cluj, Romania*
@@ -36,7 +30,19 @@ Keep your dependencies in check
 
 Keep your dependencies in check
 
+**Cukenfest** ([website](https://cucumber.io/cukenfest/))
+
+*Nov 9-10th, 2022 - London, UK*
+
+Keep your dependencies in check
+
 ### Past
+
+**JoziJUG** ([website](https://www.meetup.com/jozi-jug/))
+
+*September 26th, 2022 - online*
+
+[Keep your dependencies in check](https://www.meetup.com/jozi-jug/events/288165207/)
 
 **RotterdamJUG** ([website](https://www.meetup.com/rotterdamjug/) - [slides](https://speakerdeck.com/mlvandijk/keep-your-dependencies-in-check))
 
