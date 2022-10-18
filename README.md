@@ -6,18 +6,6 @@
 
 ### Upcoming
 
-**Voxxed Days Cluj** ([website](https://romania.voxxeddays.com/cluj-napoca/voxxed-days-cluj-napoca-2022/))
-
-*October 5-7, 2022 - Cluj, Romania*
-
-[Use Testing to Develop Better Software Faster](https://romania.voxxeddays.com/2022/09/04/use-testing-to-develop-better-software-faster/)
-
-**DevOxx** ([website](https://devoxx.be/))
-
-*October 10-14, 2022 - Antwerp, Belgium*
-
-[Keep your dependencies in check](https://devoxx.be/schedule/speaker-details/?id=17923)
-
 **GeeCon Prague** ([website](https://2022.geecon.cz/))
 
 *October 24-25, 2022 - Prague, Czech Republic*
@@ -30,13 +18,19 @@ Keep your dependencies in check
 
 Keep your dependencies in check
 
-**Cukenfest** ([website](https://cucumber.io/cukenfest/))
-
-*Nov 9-10th, 2022 - London, UK*
-
-Keep your dependencies in check
-
 ### Past
+
+**DevOxx** ([website](https://devoxx.be/))
+
+*October 10-14, 2022 - Antwerp, Belgium*
+
+[Keep your dependencies in check](https://devoxx.be/schedule/speaker-details/?id=17923)
+
+**Voxxed Days Cluj** ([website](https://romania.voxxeddays.com/cluj-napoca/voxxed-days-cluj-napoca-2022/))
+
+*October 5-7, 2022 - Cluj, Romania*
+
+[Use Testing to Develop Better Software Faster](https://romania.voxxeddays.com/2022/09/04/use-testing-to-develop-better-software-faster/)
 
 **JoziJUG** ([website](https://www.meetup.com/jozi-jug/))
 
